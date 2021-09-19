@@ -3,14 +3,14 @@
 </p>
 
 # Warcraft III Frozen Throne Proxy 
-A simple tool that let you play warcraft III frozen throne over vpn.
+A simple tool that let you play Warcraft III Frozen Throne over VPN.
 
 ## Description 
 This tool is a tcp proxy combined with a udp discover mechanism. This enables you to play Warcraft III Frozen Throne over more complex network configurations like a VPN (Zerotier One, Hamachi). This tool is inspired by the https://gaming-tools.com/warcraft-3/lancraft/ tool.
 
-![alt text](https://raw.githubusercontent.com/exellian/wc3-ft-proxy/main/assets/example.png?raw=true)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/exellian/wc3-ft-proxy/main/assets/example.png?raw=true" /> 
+</p>
 
 ## Tutorial
 1. Ensure that all players are connected over LAN (Zerotier One, Hamachi)
@@ -21,5 +21,5 @@ This tool is a tcp proxy combined with a udp discover mechanism. This enables yo
 6. Enter the ip address and port of the **host** (ipv6 will also probably work)
 -> Now all players that want to join should find the server!
 
-## Support
-Only Windows
+## Tested
+Tested on version 1.24
