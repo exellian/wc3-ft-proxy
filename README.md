@@ -14,3 +14,6 @@ This tool is a tcp proxy combined with a udp discover mechanism. This enables yo
 5. All **other** players that want to join have to run the proxy tool
 6. Enter the ip address and port of the **host** (ipv6 will also probably work)
 -> Now all players that want to join should find the server!
+
+## Support
+Only Windows
